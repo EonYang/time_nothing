@@ -34,15 +34,13 @@ I wish this can ignore the inconsistency of the NYU LAN, so I introduced a route
 
 ## Installing
 
-current RTMP IP:
 
-165.227.75.156
 
-Streaming:
 
-Field 1: rtmp://165.227.75.156/live/
-Field 2: nothing
+## A Few Notes
 
-Viewing:
+* The latest Android SDK Tools(r26) are not compatible with Unity. You must switch back to r25.2.5 or something around that.
 
-rtmp://165.227.75.156/live/nothing
+* If you wanna log Unity on Android, use Android Studio and open View - Tool Windows - Logcat.
+
+* I switched to SRS, which is much easier to set up. [SRS](https://github.com/ossrs/srs)
