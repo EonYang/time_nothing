@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7912D46C-DF30-EA00-ED83-A3C569409426}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Scripts/Controller/GvrControllerInput.cs" Line="140" Column="11" />
+      <File FileName="Assets/GoogleVR/Scripts/Video/GvrVideoPlayerTexture.cs" Line="44" Column="29" />
+      <File FileName="Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs" Line="26" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.360-live-UMP PreferredExecutionTarget="Unity.Editor" />
+</Properties>
